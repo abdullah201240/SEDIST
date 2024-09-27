@@ -1,0 +1,7 @@
+# Visual Studio Code
+.vscode/
+.history/
+# Ignore all files in the specific path
+/Users/abdullahalsakib/Downloads/Trimester13/Paper/Code/Tutorial/all_adatas
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
